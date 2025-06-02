@@ -1,0 +1,103 @@
+html {
+	scroll-behavior: smooth;
+}
+
+#download {
+	scroll-margin-top: 48px;
+}
+
+.extensions-img {
+	width: 360px;
+	height: 200px;
+}
+
+.extensions-img:hover {
+	scale: 1.05;
+	transition: scale 0.3s ease-in-out;
+}
+
+.bg-\[\#2c2c32\],
+.bg-\[\#2C2C32\] {
+	background-color: #2c2c32;
+}
+
+.bg-\[\#3d3d42\],
+.bg-\[\#3D3D42\] {
+	background-color: #3d3d42;
+}
+
+.bg-\[\#0078d4\],
+.bg-\[\#0078D4\] {
+	background-color: #0078d4;
+}
+
+.bg-\[\#0066b8\],
+.bg-\[\#0066B8\] {
+	background-color: #0066b8;
+}
+
+.bg-\[\#25252b\],
+.bg-\[\#25252B\] {
+	background-color: #25252b;
+}
+
+.bg-\[\#f5f5f5\],
+.bg-\[\#F5F5F5\] {
+	background-color: #f5f5f5;
+}
+
+.bg-\[\#333\],
+.bg-\[\#333333\] {
+	background-color: #333;
+}
+
+.text-\[\#a4a4a7\],
+.text-\[\#A4A4A7\] {
+	color: #a4a4a7;
+}
+
+.text-\[\#9ba2ae\],
+.text-\[\#9BA2AE\] {
+	color: #9ba2ae;
+}
+
+.text-\[\#ffffff99\],
+.text-\[\#FFFFFF99\],
+.text-\[\#fff9\],
+.text-\[\#FFF9\] {
+	color: #fff9;
+}
+
+.text-\[\#0098ff\],
+.text-\[\#0098FF\] {
+	color: #0098ff;
+}
+
+.text-\[\#0071bc\],
+.text-\[\#0071BC\] {
+	color: #0071bc;
+}
+
+.text-\[\#444\],
+.text-\[\#444444\] {
+	color: #444;
+}
+
+.text-\[\#242424\] {
+	color: #242424;
+}
+
+.hover\:bg-\[\#5c5c5f\]:hover,
+.hover\:bg-\[\#5C5C5F\]:hover {
+	background-color: #5c5c5f;
+}
+
+.hover\:bg-\[\#0069b9\]:hover,
+.hover\:bg-\[\#0069B9\]:hover {
+	background-color: #0069b9;
+}
+
+.hover\:bg-\[\#f5f5f5\]:hover,
+.hover\:bg-\[\#F5F5F5\]:hover {
+	background-color: #f5f5f5;
+}
